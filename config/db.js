@@ -3,5 +3,5 @@
  */
 var mongoose=require('mongoose');
 //mongoose.connect('mongodb://firstak:firstak2016@ds040349.mlab.com:40349/sherrington');
-mongoose.connect('mongodb://127.0.0.1/meanAuth');
+mongoose.connect('mongodb://admin:azerty100@ds031597.mlab.com:31597/sherrington');
 module.exports=mongoose;
